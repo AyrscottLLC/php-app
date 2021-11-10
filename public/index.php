@@ -24,8 +24,7 @@
 </head>
 
 <body>
-    <h1>Ayrscott Heroku PHP Template</h1>
-    $_ENV = <?php var_dump($_ENV); ?>
+    <h1>Ayrscott&trade; PHP App Template</h1>
 </body>
 
 </html>

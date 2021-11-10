@@ -5,3 +5,7 @@ Minamilist PHP skeleton for creating bespoke applications from the ground up on 
 Want to test this project on a local windows enviornment? Make sure php is installed and in your PATH. Inside this folder run the following command:
 
     heroku local -f Procfile.windows
+
+or inside Windows Powershell (hint ru tab complete)
+
+    .\run.ps1
