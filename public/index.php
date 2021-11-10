@@ -25,6 +25,7 @@
 
 <body>
     <h1>Ayrscott Heroku PHP Template</h1>
+    $_ENV = <?php var_dump($_ENV); ?>
 </body>
 
 </html>
