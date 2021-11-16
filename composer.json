@@ -3,9 +3,8 @@
         "php": "^8.0.0"
     },
     "scripts": {
-        "post-install-cmd": [
-            "cd public",
-            "npm install"
+        "complile": [
+            "cd public && (npm bin -q) install"
         ]
     }
 }
