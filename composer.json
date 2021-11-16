@@ -5,7 +5,7 @@
     "scripts": {
         "post-install-cmd": [
             "cd public",
-            "npm install"
+            "yarn install"
         ]
     }
 }
