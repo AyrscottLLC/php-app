@@ -1,5 +1,9 @@
 {
+    "name": "Skelton PHP/JS app on Heroku",
     "description": "Note: The last buildpack in the list will be used to determine the process types for the application. PHP should be LAST.",
+    "website": "https://ayrscott.com/",
+    "repository": "https://github.com/AyrscottLLC/php-app",
+    "image": "heroku/php",
     "buildpacks": [
         {
             "url": "heroku/nodejs"
