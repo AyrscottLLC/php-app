@@ -1,0 +1,11 @@
+{
+    "description": "Note: The last buildpack in the list will be used to determine the process types for the application. PHP should be LAST.",
+    "buildpacks": [
+        {
+            "url": "heroku/nodejs"
+        },
+        {
+            "url": "heroku/php"
+        }
+    ]
+}
