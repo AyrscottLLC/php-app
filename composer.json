@@ -3,7 +3,7 @@
         "php": "^8.0.0"
     },
     "scripts": {
-        "complile": [
+        "compile": [
             "cd public && (npm bin -q) install"
         ]
     }
